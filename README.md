@@ -1,6 +1,6 @@
 # Bitcoin L1
 
-## Faster than lightning, programmable bitcoin.
+Faster than lightning, programmable bitcoin.
 
 - L1 Overview
   - [Testnet](https://subnets-test.avax.network/subnets/2mKPswfF36XrXZgk3tn9jjntXK3Yhk2SfDbkoBC1wB932Zyc1w)
