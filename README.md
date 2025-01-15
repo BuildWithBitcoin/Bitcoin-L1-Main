@@ -79,7 +79,5 @@ Bridged via ICM (formerly known as Teleporter)
   - `avalanche blockchain import file ./l1s/bitcoinl1-testnet/export.json`
 - [Join the L1](https://docs.avax.network/avalanche-l1s/deploy-a-avalanche-l1/fuji-testnet) with your node using Avalanche CLI
   - `avalanche blockchain join BitcoinL1`
-- Seed the network upgrade file
-  - `mkdir .avalanchego/configs/chains/eNzydku7iCYZ4vG4uEGAQRsqDUy3R7myiJtGee54GKi6H1eHi`
 - Reload AvalancheGo
   - `sudo systemctl restart avalanchego`
