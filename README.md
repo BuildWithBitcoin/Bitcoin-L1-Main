@@ -1,5 +1,7 @@
 # Bitcoin L1
 
+## Faster than lightning, programmable bitcoin.
+
 - L1 Overview
   - [Testnet](https://subnets-test.avax.network/subnets/2mKPswfF36XrXZgk3tn9jjntXK3Yhk2SfDbkoBC1wB932Zyc1w)
 - Block Explorers
@@ -41,7 +43,7 @@ Bridged via ICM (formerly known as Teleporter)
 
 |             Contract |                                                                                                                       Address |
 | -------------------: | ----------------------------------------------------------------------------------------------------------------------------: |
-| BTCb Fuji Mock ERC20 | [`0x955723e26bd1b2165391BCaf39A92f77b30FFe01`](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
+| BTCb Fuji Mock ERC20 | [`0xb693180ad3A4049eaB26453CCfF1b30517D2acd2`](https://testnet.snowtrace.io/token/0xb693180ad3A4049eaB26453CCfF1b30517D2acd2) |
 
 ### Fuji Uniswap V2 Pairs
 
