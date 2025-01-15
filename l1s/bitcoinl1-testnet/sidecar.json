@@ -1,0 +1,53 @@
+{
+    "Name": "BitcoinL1",
+    "VM": "Subnet-EVM",
+    "VMVersion": "v0.7.0",
+    "RPCVersion": 38,
+    "Subnet": "BitcoinL1",
+    "ExternalToken": false,
+    "TokenName": "Bitcoin",
+    "TokenSymbol": "BTC",
+    "ChainID": 132008,
+    "Version": "1.4.0",
+    "Networks": {
+        "Fuji": {
+            "SubnetID": "2mKPswfF36XrXZgk3tn9jjntXK3Yhk2SfDbkoBC1wB932Zyc1w",
+            "BlockchainID": "eNzydku7iCYZ4vG4uEGAQRsqDUy3R7myiJtGee54GKi6H1eHi",
+            "RPCVersion": 38,
+            "TeleporterMessengerAddress": "0x253b2784c75e510dD0fF1da844684a1aC0aa5fcf",
+            "TeleporterRegistryAddress": "0x6e0153CccEE18ADFfE4537A0D88EC3746C83825C",
+            "BootstrapValidators": [
+                {
+                    "NodeID": "NodeID-FYBpZ9Wj3vizs5as69VgB2UL2mmHdykcS",
+                    "Weight": 100,
+                    "BLSPublicKey": "0x867cae82c1c9b04fb1bed97084803a7aefb0168fbcafc6285ced5adfbc57854c79768204bfb29b8f6738ac5a814cd78e"
+                },
+                {
+                    "NodeID": "NodeID-6dUBjGfpnXJ4pC9T8Z3QhpJz2XztYR33g",
+                    "Weight": 20,
+                    "BLSPublicKey": "0x8a88ba6a5062b06304baceddd14cc502f5c9825d63ecba423ae5df8cc760f5977a0da34558fd8821cc837ca3a5b7f7af"
+                },
+                {
+                    "NodeID": "NodeID-NjtkHHCbsQ1ZHHZMkXXyEShZX3BTuQ2t5",
+                    "Weight": 20,
+                    "BLSPublicKey": "0x94202143e9e7239cec0c366b89a9729c6250b3b1f6f774bc02df25f17ce82e2d6a33b20d4bc6acf41690fffe93de9ff7"
+                }
+            ],
+            "ClusterName": "BitcoinL1-Fuji"
+        }
+    },
+    "ImportedFromAPM": false,
+    "ImportedVMID": "",
+    "CustomVMRepoURL": "",
+    "CustomVMBranch": "",
+    "CustomVMBuildScript": "",
+    "TeleporterReady": true,
+    "TeleporterKey": "cli-teleporter-deployer",
+    "TeleporterVersion": "v1.0.0",
+    "RunRelayer": true,
+    "SubnetEVMMainnetChainID": 0,
+    "ValidatorManagement": "Proof Of Authority",
+    "ValidatorManagerOwner": "0xCEf7b613CbaEC6C0c8E9b2082b20B427a3fF50Ab",
+    "ProxyContractOwner": "0xCEf7b613CbaEC6C0c8E9b2082b20B427a3fF50Ab",
+    "Sovereign": true
+}

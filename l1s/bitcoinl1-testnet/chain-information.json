@@ -1,0 +1,46 @@
+{
+  "chainName": "BitcoinL1",
+  "description": "Faster than lightning, programmable bitcoin.",
+  "chainId": 132008,
+  "platformChainId": "eNzydku7iCYZ4vG4uEGAQRsqDUy3R7myiJtGee54GKi6H1eHi",
+  "subnetId": "2mKPswfF36XrXZgk3tn9jjntXK3Yhk2SfDbkoBC1wB932Zyc1w",
+  "vmId": "WFQQxaywkqeEoioDtaSqCM3C4PQkPVbCgbK8VseYGSK1j5VNP",
+  "vmName": "EVM",
+  "explorerUrl": "https://testnet.bitcoinl1.net/",
+  "rpcUrl": "https://rpc.bitcoinl1.net/main/evm/132008",
+  "wsUrl": "wss://wsock.bitcoinl1.net/ext/bc/BTC/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18,
+    "description": "Bitcoin",
+    "logoUri": "https://cdn.blockviper.com/bitcoinl1/bitcoin.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0xAea50D5b34c4210E13170f2AeEECA04748D80fb3"
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "nativeTokenId": "bitcoin"
+    }
+  },
+  "officialSite": "https://bitcoinl1.net/",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://docs.bitcoinl1.net/"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://x.com/BTCL1Net"
+    },
+    {
+      "type": "Github",
+      "url": "https://github.com/BuildWithBitcoin"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#000000",
+  "logoUri": "https://cdn.blockviper.com/bitcoinl1/BTCL1-Logo-Word-Icon-DARK.png"
+}
