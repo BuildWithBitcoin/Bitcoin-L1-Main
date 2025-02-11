@@ -5,55 +5,55 @@
     "description": "TeleporterMessenger"
   },
   {
-    "address": "0x6e0153CccEE18ADFfE4537A0D88EC3746C83825C",
+    "address": "0xde257b4C0c5C9AcF964B0605e6D6202EdCC33789",
     "name": "TeleporterRegistry",
     "description": "Teleporter Registry"
   },
   {
-    "address": "0xECe5Fa5d777322801163bEb40CdE02548eFEEFbd",
+    "address": "0x6F67Fe132079265FFe54A7474B2469DbF99cf3d8",
     "name": "NativeTokenRemote",
     "description": "NativeTokenRemote"
   },
   {
-    "address": "0x7Ac0eb6e22D27A3eCe36c517E86E73551803C532",
+    "address": "0x3Ea2D2B253E850e0ab060c7BE95E6879D095e4CA",
     "name": "Balance Fetcher",
     "description": "Balance Fetcher"
   },
   {
-    "address": "0x54AE1aA458E999f1d46b3c1e656356F5B587A0a0",
+    "address": "0x84E54e2B44eeA80e912A4Bc9c4f1E82699EDC044",
     "name": "Multicall 3",
     "description": "Multicall 3"
   },
   {
-    "address": "0xF0B202c9EfFE774483f73884acCFBB23874DB8a1",
+    "address": "0xb0d2C62359015B57febAE280a99fCC40E1Cb7390",
     "name": "Multicall 2",
     "description": "Multicall 2"
   },
   {
-    "address": "0xAea50D5b34c4210E13170f2AeEECA04748D80fb3",
+    "address": "0x332644d50617ecB7f72b7CC5Bf51216E6bFAD0Bc",
     "name": "Multicall",
     "description": "Multicall"
   },
   {
-    "address": "0x704c6e74A3d38829D77Bc366B4494567e5D363f4",
+    "address": "0xB026eFA843D753bd7D6937355cE58d01c18D0682",
     "name": "UniswapInterfaceMulticall",
     "description": "UniswapInterfaceMulticall"
   },
   {
-    "address": "0x37dcb5c7B05535FE23f10124734D2012C9006A6b",
+    "address": "0xe7dED06A2AFb574017b8fBe9C849329E9DA86852",
     "name": "Uniswap v2 Router",
     "description": "Vavalon Router"
   },
   {
-    "address": "0x33d8d3848E2e8b938373D93d01bB6D4d68Bcb5b3",
+    "address": "0x7a88eD0640CAb21C9C6F97a1c71b280bA1883156",
     "name": "Uniswap v2 Factory",
     "description": "Vavalon Factory"
   },
   {
-    "address": "0xe8C0c874a390Ce5A933548aF58Bd83322337E356",
+    "address": "0x21a352001166715294A54EDC637256Bc787B8a19",
     "name": "Wrapped Bitcoin",
     "symbol": "wBTC",
-    "description": "Mock wrapped native token",
+    "description": "Wrapped Bitcoin",
     "contractType": "ERC-20",
     "decimals": 18,
     "logoUrl": "https://cdn.blockviper.com/bitcoinl1/bitcoin.png"

@@ -3,12 +3,14 @@
 Faster than lightning, programmable bitcoin.
 
 - L1 Overview
-  - [Testnet](https://subnets-test.avax.network/subnets/2mKPswfF36XrXZgk3tn9jjntXK3Yhk2SfDbkoBC1wB932Zyc1w)
+  - [Testnet](https://subnets-test.avax.network/subnets/2YpN9N8PGmRfM4eiyCs5YBCKjPwRQxYBFDWW7yZ8PhPHAmiNH2)
 - Block Explorers
   - [Testnet](https://testnet.bitcoinl1.net/)
 - RPC URLs:
   - Testnet: `https://rpc.bitcoinl1.net/main/evm/132008` (chain id 132008)
 - [Vavalon DEX](https://dex.vavalon.com)
+- Faucet:
+  - [BTC](https://build.bitcoinl1.net)
 
 ## Fuji Testnet
 
@@ -18,24 +20,24 @@ Faster than lightning, programmable bitcoin.
 | :-------------- | -------------------------------------------------------------------------------------------: |
 | L1 Name         |                                                                                   Bitcoin L1 |
 | L1 Logo         | <img src="https://cdn.blockviper.com/bitcoinl1/BTCL1-Logo-Word-Icon-DARK.png" width="25%" /> |
-| L1 ID           |                                          `ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW` |
-| VM ID           |                                          `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
+| L1 ID           |                                         `2YpN9N8PGmRfM4eiyCs5YBCKjPwRQxYBFDWW7yZ8PhPHAmiNH2` |
+| VM ID           |                                          `WFQQxaywkqeEoioDtaSqCM3C4PQkPVbCgbK8VseYGSK1j5VNP` |
 | Chain Name      |                                                                           Bitcoin L1 Testnet |
 | Chain Logo      | <img src="https://cdn.blockviper.com/bitcoinl1/BTCL1-Logo-Word-Icon-DARK.png" width="25%" /> |
-| Blockchain ID   |                                          `eNzydku7iCYZ4vG4uEGAQRsqDUy3R7myiJtGee54GKi6H1eHi` |
+| Blockchain ID   |                                         `21sMT9kcBoLjhKKN7qiNHMZqajubr7tb7uowAdXPfnBY6ihKFE` |
 | Eth Chain ID    |                                                                                       132008 |
 | RPC URL         |                                                  `https://rpc.bitcoinl1.net/main/evm/132008` |
-| WS RPC URL      |                                                    `wss://wsock.bitcoinl1.net/ext/bc/BTC/ws` |
+| WS RPC URL      |      `wss://rpc1.bitcoinl1.net/ext/bc/21sMT9kcBoLjhKKN7qiNHMZqajubr7tb7uowAdXPfnBY6ihKFE/ws` |
 | Explorer URL    |                                                                https://testnet.bitcoinl1.net |
 | Description     |                                                                                   Bitcoin L1 |
 | Site            |                                                                        https://bitcoinl1.net |
 
 ### Fuji L1 ERC-20 Tokens
 
-| Symbol |                                                                                                                         Address | Decimals |                              Logo                              |     Description |
-| -----: | ------------------------------------------------------------------------------------------------------------------------------: | -------: | :------------------------------------------------------------: | --------------: |
-|    BTC |                                                                                                                          NATIVE |       18 | ![BTC logo](https://cdn.blockviper.com/bitcoinl1/bitcoin.png)  |         Bitcoin |
-|   wBTC | [`0xb693180ad3A4049eaB26453CCfF1b30517D2acd2`](https://testnet.snowscan.xyz/address/0xb693180ad3A4049eaB26453CCfF1b30517D2acd2) |       18 | ![wBTC logo](https://cdn.blockviper.com/bitcoinl1/bitcoin.png) | Wrapped Bitcoin |
+| Symbol |                                                                                                                          Address | Decimals |                              Logo                              |     Description |
+| -----: | -------------------------------------------------------------------------------------------------------------------------------: | -------: | :------------------------------------------------------------: | --------------: |
+|    BTC |                                                                                                                           NATIVE |       18 | ![BTC logo](https://cdn.blockviper.com/bitcoinl1/bitcoin.png)  |         Bitcoin |
+|   wBTC | [`0xde257b4C0c5C9AcF964B0605e6D6202EdCC33789`](https://testnet.bitcoinl1.net/address/0x21a352001166715294A54EDC637256Bc787B8a19) |       18 | ![wBTC logo](https://cdn.blockviper.com/bitcoinl1/bitcoin.png) | Wrapped Bitcoin |
 
 ### Bitcoin Token on Fuji
 
@@ -43,7 +45,7 @@ Bridged via ICM (formerly known as Teleporter)
 
 |             Contract |                                                                                                                       Address |
 | -------------------: | ----------------------------------------------------------------------------------------------------------------------------: |
-| BTCb Fuji Mock ERC20 | [`0xb693180ad3A4049eaB26453CCfF1b30517D2acd2`](https://testnet.snowtrace.io/token/0xb693180ad3A4049eaB26453CCfF1b30517D2acd2) |
+| BTCb Fuji Mock ERC20 | [`0x6d3af0fb14c638df66fe97fa43130646c66da557`](https://testnet.snowtrace.io/token/0x6d3af0fb14c638df66fe97fa43130646c66da557) |
 
 ### Fuji Uniswap V2 Pairs
 
@@ -55,15 +57,16 @@ Bridged via ICM (formerly known as Teleporter)
 |                  Contract |                                                                                                                          Address |               Description |
 | ------------------------: | -------------------------------------------------------------------------------------------------------------------------------: | ------------------------: |
 |       TeleporterMessenger | [`0x253b2784c75e510dD0fF1da844684a1aC0aa5fcf`](https://testnet.bitcoinl1.net/address/0x253b2784c75e510dD0fF1da844684a1aC0aa5fcf) |       TeleporterMessenger |
-|        TeleporterRegistry | [`0x6e0153CccEE18ADFfE4537A0D88EC3746C83825C`](https://testnet.bitcoinl1.net/address/0x6e0153CccEE18ADFfE4537A0D88EC3746C83825C) |       Teleporter Registry |
-|         NativeTokenRemote | [`0xECe5Fa5d777322801163bEb40CdE02548eFEEFbd`](https://testnet.bitcoinl1.net/address/0xECe5Fa5d777322801163bEb40CdE02548eFEEFbd) |         NativeTokenRemote |
-|           Balance Fetcher | [`0x7Ac0eb6e22D27A3eCe36c517E86E73551803C532`](https://testnet.bitcoinl1.net/address/0x7Ac0eb6e22D27A3eCe36c517E86E73551803C532) |           Balance Fetcher |
-|               Multicall 3 | [`0x54AE1aA458E999f1d46b3c1e656356F5B587A0a0`](https://testnet.bitcoinl1.net/address/0x54AE1aA458E999f1d46b3c1e656356F5B587A0a0) |               Multicall 3 |
-|               Multicall 2 | [`0xF0B202c9EfFE774483f73884acCFBB23874DB8a1`](https://testnet.bitcoinl1.net/address/0xF0B202c9EfFE774483f73884acCFBB23874DB8a1) |               Multicall 2 |
-|                 Multicall | [`0xAea50D5b34c4210E13170f2AeEECA04748D80fb3`](https://testnet.bitcoinl1.net/address/0xAea50D5b34c4210E13170f2AeEECA04748D80fb3) |                 Multicall |
-| UniswapInterfaceMulticall | [`0x704c6e74A3d38829D77Bc366B4494567e5D363f4`](https://testnet.bitcoinl1.net/address/0x704c6e74A3d38829D77Bc366B4494567e5D363f4) | UniswapInterfaceMulticall |
-|         Uniswap v2 Router | [`0x37dcb5c7B05535FE23f10124734D2012C9006A6b`](https://testnet.bitcoinl1.net/address/0x37dcb5c7B05535FE23f10124734D2012C9006A6b) |            Vavalon Router |
-|        Uniswap v2 Factory | [`0x33d8d3848E2e8b938373D93d01bB6D4d68Bcb5b3`](https://testnet.bitcoinl1.net/address/0x33d8d3848E2e8b938373D93d01bB6D4d68Bcb5b3) |           Vavalon Factory |
+|        TeleporterRegistry | [`0xde257b4C0c5C9AcF964B0605e6D6202EdCC33789`](https://testnet.bitcoinl1.net/address/0xde257b4C0c5C9AcF964B0605e6D6202EdCC33789) |       Teleporter Registry |
+|         NativeTokenRemote | [`0x6F67Fe132079265FFe54A7474B2469DbF99cf3d8`](https://testnet.bitcoinl1.net/address/0x6F67Fe132079265FFe54A7474B2469DbF99cf3d8) |         NativeTokenRemote |
+|           Balance Fetcher | [`0x3Ea2D2B253E850e0ab060c7BE95E6879D095e4CA`](https://testnet.bitcoinl1.net/address/0x3Ea2D2B253E850e0ab060c7BE95E6879D095e4CA) |           Balance Fetcher |
+|               Multicall 3 | [`0x84E54e2B44eeA80e912A4Bc9c4f1E82699EDC044`](https://testnet.bitcoinl1.net/address/0x84E54e2B44eeA80e912A4Bc9c4f1E82699EDC044) |               Multicall 3 |
+|               Multicall 2 | [`0xb0d2C62359015B57febAE280a99fCC40E1Cb7390`](https://testnet.bitcoinl1.net/address/0xb0d2C62359015B57febAE280a99fCC40E1Cb7390) |               Multicall 2 |
+|                 Multicall | [`0x332644d50617ecB7f72b7CC5Bf51216E6bFAD0Bc`](https://testnet.bitcoinl1.net/address/0x332644d50617ecB7f72b7CC5Bf51216E6bFAD0Bc) |                 Multicall |
+| UniswapInterfaceMulticall | [`0xB026eFA843D753bd7D6937355cE58d01c18D0682`](https://testnet.bitcoinl1.net/address/0xB026eFA843D753bd7D6937355cE58d01c18D0682) | UniswapInterfaceMulticall |
+|         Uniswap v2 Router | [`0xe7dED06A2AFb574017b8fBe9C849329E9DA86852`](https://testnet.bitcoinl1.net/address/0xe7dED06A2AFb574017b8fBe9C849329E9DA86852) |            Vavalon Router |
+|        Uniswap v2 Factory | [`0x7a88eD0640CAb21C9C6F97a1c71b280bA1883156`](https://testnet.bitcoinl1.net/address/0x7a88eD0640CAb21C9C6F97a1c71b280bA1883156) |           Vavalon Factory |
+|                 BTCFaucet | [`0x302eB32d677642ea4E7c8AAbfA4FA846a02d1F98`](https://testnet.bitcoinl1.net/address/0x302eB32d677642ea4E7c8AAbfA4FA846a02d1F98) |                BTC Faucet |
 
 ## Run your own node
 

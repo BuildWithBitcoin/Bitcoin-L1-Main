@@ -2,8 +2,8 @@
   "chainName": "BitcoinL1",
   "description": "Faster than lightning, programmable bitcoin.",
   "chainId": 132008,
-  "platformChainId": "eNzydku7iCYZ4vG4uEGAQRsqDUy3R7myiJtGee54GKi6H1eHi",
-  "subnetId": "2mKPswfF36XrXZgk3tn9jjntXK3Yhk2SfDbkoBC1wB932Zyc1w",
+  "platformChainId": "21sMT9kcBoLjhKKN7qiNHMZqajubr7tb7uowAdXPfnBY6ihKFE",
+  "subnetId": "2YpN9N8PGmRfM4eiyCs5YBCKjPwRQxYBFDWW7yZ8PhPHAmiNH2",
   "vmId": "WFQQxaywkqeEoioDtaSqCM3C4PQkPVbCgbK8VseYGSK1j5VNP",
   "vmName": "EVM",
   "explorerUrl": "https://testnet.bitcoinl1.net/",
@@ -18,7 +18,7 @@
     "logoUri": "https://cdn.blockviper.com/bitcoinl1/bitcoin.png"
   },
   "utilityAddresses": {
-    "multicall": "0xAea50D5b34c4210E13170f2AeEECA04748D80fb3"
+    "multicall": "0x332644d50617ecB7f72b7CC5Bf51216E6bFAD0Bc"
   },
   "pricingProviders": {
     "coingecko": {

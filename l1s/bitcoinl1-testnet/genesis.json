@@ -8,16 +8,16 @@
             "adminAddresses": [
                 "0xcef7b613cbaec6c0c8e9b2082b20b427a3ff50ab"
             ],
-            "blockTimestamp": 1736473018
+            "blockTimestamp": 1738778316
         },
         "eip150Block": 0,
         "eip155Block": 0,
         "eip158Block": 0,
         "feeConfig": {
-            "gasLimit": 15000000,
+            "gasLimit": 12000000,
             "targetBlockRate": 2,
             "minBaseFee": 25000000000,
-            "targetGas": 45000000,
+            "targetGas": 25000000,
             "baseFeeChangeDenominator": 36,
             "minBlockGasCost": 0,
             "maxBlockGasCost": 1000000,
@@ -27,7 +27,7 @@
             "adminAddresses": [
                 "0xcef7b613cbaec6c0c8e9b2082b20b427a3ff50ab"
             ],
-            "blockTimestamp": 1736473018
+            "blockTimestamp": 1738778316
         },
         "homesteadBlock": 0,
         "istanbulBlock": 0,
@@ -38,18 +38,18 @@
             "adminAddresses": [
                 "0xcef7b613cbaec6c0c8e9b2082b20b427a3ff50ab"
             ],
-            "blockTimestamp": 1736473018
+            "blockTimestamp": 1738778316
         },
         "warpConfig": {
-            "blockTimestamp": 1736473018,
+            "blockTimestamp": 1738778316,
             "quorumNumerator": 67,
             "requirePrimaryNetworkSigners": true
         }
     },
     "nonce": "0x0",
-    "timestamp": "0x678079ba",
+    "timestamp": "0x67a3a6cc",
     "extraData": "0x",
-    "gasLimit": "0xe4e1c0",
+    "gasLimit": "0xb71b00",
     "difficulty": "0x0",
     "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "coinbase": "0x0000000000000000000000000000000000000000",
@@ -68,7 +68,7 @@
             "balance": "0x0",
             "nonce": "0x1"
         },
-        "9910bb02eeaf9b7742e942d370451ca92c239eba": {
+        "8f91c4269d0acfd2b6763b10664b9eff41e6143a": {
             "balance": "0x2086ac351052600000"
         },
         "c0ffee1234567890abcdef1234567890abcdef34": {
