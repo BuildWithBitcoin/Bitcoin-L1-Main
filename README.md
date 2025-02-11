@@ -37,7 +37,7 @@ Faster than lightning, programmable bitcoin.
 | Symbol |                                                                                                                          Address | Decimals |                              Logo                              |     Description |
 | -----: | -------------------------------------------------------------------------------------------------------------------------------: | -------: | :------------------------------------------------------------: | --------------: |
 |    BTC |                                                                                                                           NATIVE |       18 | ![BTC logo](https://cdn.blockviper.com/bitcoinl1/bitcoin.png)  |         Bitcoin |
-|   wBTC | [`0xde257b4C0c5C9AcF964B0605e6D6202EdCC33789`](https://testnet.bitcoinl1.net/address/0x21a352001166715294A54EDC637256Bc787B8a19) |       18 | ![wBTC logo](https://cdn.blockviper.com/bitcoinl1/bitcoin.png) | Wrapped Bitcoin |
+|   wBTC | [`0x21a352001166715294A54EDC637256Bc787B8a19`](https://testnet.bitcoinl1.net/address/0x21a352001166715294A54EDC637256Bc787B8a19) |       18 | ![wBTC logo](https://cdn.blockviper.com/bitcoinl1/bitcoin.png) | Wrapped Bitcoin |
 
 ### Bitcoin Token on Fuji
 
