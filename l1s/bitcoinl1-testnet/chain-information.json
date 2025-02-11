@@ -8,7 +8,7 @@
   "vmName": "EVM",
   "explorerUrl": "https://testnet.bitcoinl1.net/",
   "rpcUrl": "https://rpc.bitcoinl1.net/main/evm/132008",
-  "wsUrl": "wss://wsock.bitcoinl1.net/ext/bc/BTC/ws",
+  "wsUrl": "wss://rpc1.bitcoinl1.net/ext/bc/21sMT9kcBoLjhKKN7qiNHMZqajubr7tb7uowAdXPfnBY6ihKFE/ws",
   "isTestnet": true,
   "networkToken": {
     "name": "Bitcoin",
