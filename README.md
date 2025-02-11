@@ -67,6 +67,7 @@ Bridged via ICM (formerly known as Teleporter)
 |         Uniswap v2 Router | [`0xe7dED06A2AFb574017b8fBe9C849329E9DA86852`](https://testnet.bitcoinl1.net/address/0xe7dED06A2AFb574017b8fBe9C849329E9DA86852) |            Vavalon Router |
 |        Uniswap v2 Factory | [`0x7a88eD0640CAb21C9C6F97a1c71b280bA1883156`](https://testnet.bitcoinl1.net/address/0x7a88eD0640CAb21C9C6F97a1c71b280bA1883156) |           Vavalon Factory |
 |                 BTCFaucet | [`0x302eB32d677642ea4E7c8AAbfA4FA846a02d1F98`](https://testnet.bitcoinl1.net/address/0x302eB32d677642ea4E7c8AAbfA4FA846a02d1F98) |                BTC Faucet |
+|                 Forwarder | [`0xF9F784766Ea1DEcAef46350e075d52368b2B7625`](https://testnet.bitcoinl1.net/address/0xF9F784766Ea1DEcAef46350e075d52368b2B7625) |        EIP-2771 Forwarder |
 
 ## Run your own node
 
