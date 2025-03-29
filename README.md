@@ -7,7 +7,7 @@ Faster than lightning, programmable bitcoin.
 - Block Explorers
   - [Testnet](https://testnet.bitcoinl1.net/)
 - RPC URLs:
-  - Testnet: `https://rpc.bitcoinl1.net/main/evm/132008` (chain id 132008)
+  - Testnet: `https://testnet.rpc.bitcoinl1.net` (chain id 132008)
 - [Vavalon DEX](https://dex.vavalon.com)
 - Faucet:
   - [BTC](https://build.bitcoinl1.net)
@@ -26,7 +26,7 @@ Faster than lightning, programmable bitcoin.
 | Chain Logo      | <img src="https://cdn.blockviper.com/bitcoinl1/BTCL1-Logo-Word-Icon-DARK.png" width="25%" /> |
 | Blockchain ID   |                                         `21sMT9kcBoLjhKKN7qiNHMZqajubr7tb7uowAdXPfnBY6ihKFE` |
 | Eth Chain ID    |                                                                                       132008 |
-| RPC URL         |                                                  `https://rpc.bitcoinl1.net/main/evm/132008` |
+| RPC URL         |                                                  `https://testnet.rpc.bitcoinl1.net` |
 | WS RPC URL      |      `wss://rpc1.bitcoinl1.net/ext/bc/21sMT9kcBoLjhKKN7qiNHMZqajubr7tb7uowAdXPfnBY6ihKFE/ws` |
 | Explorer URL    |                                                                https://testnet.bitcoinl1.net |
 | Description     |                                                                                   Bitcoin L1 |
